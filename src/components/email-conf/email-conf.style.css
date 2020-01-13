@@ -1,0 +1,5 @@
+.customInput .MuiFormControl-root input{
+    width : 20px;
+    height: 60px;
+    font-size: xx-large;
+}
