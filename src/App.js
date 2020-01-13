@@ -38,7 +38,7 @@ const theme = createMuiTheme({
 function App() {
   return (
    <ThemeProvider color="light" theme={theme}>
-    <Router basename='/'> 
+    <Router basename='/spreago/spreago/build/'> 
     <Switch>
         <Route exact path="/">
            <LoginPage/>
