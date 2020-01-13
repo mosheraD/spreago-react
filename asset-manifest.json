@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/spreago/static/css/main.3f71bea0.chunk.css",
+    "main.js": "/spreago/static/js/main.eeff0227.chunk.js",
+    "main.js.map": "/spreago/static/js/main.eeff0227.chunk.js.map",
+    "runtime-main.js": "/spreago/static/js/runtime-main.fb405b2e.js",
+    "runtime-main.js.map": "/spreago/static/js/runtime-main.fb405b2e.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/spreago/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.9e4ddc5f.chunk.js": "/spreago/static/js/2.9e4ddc5f.chunk.js",
+    "static/js/2.9e4ddc5f.chunk.js.map": "/spreago/static/js/2.9e4ddc5f.chunk.js.map",
+    "index.html": "/spreago/index.html",
+    "precache-manifest.616a5d44444f5ae06643724f9332f102.js": "/spreago/precache-manifest.616a5d44444f5ae06643724f9332f102.js",
+    "service-worker.js": "/spreago/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/spreago/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.3f71bea0.chunk.css.map": "/spreago/static/css/main.3f71bea0.chunk.css.map",
+    "static/js/2.9e4ddc5f.chunk.js.LICENSE": "/spreago/static/js/2.9e4ddc5f.chunk.js.LICENSE",
+    "static/media/side-image.style.css": "/spreago/static/media/bg.1d61ee34.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb405b2e.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.9e4ddc5f.chunk.js",
+    "static/css/main.3f71bea0.chunk.css",
+    "static/js/main.eeff0227.chunk.js"
+  ]
+}
