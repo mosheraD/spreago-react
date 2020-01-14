@@ -38,7 +38,7 @@ const theme = createMuiTheme({
 function App() {
   return (
    <ThemeProvider color="light" theme={theme}>
-    <Router> 
+    <Router basename="/"> 
     <Switch>
         <Route exact path="/">
            <LoginPage/>
