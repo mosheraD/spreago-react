@@ -1,5 +1,5 @@
 {
-  "homepage": "http://34.67.179.88/spreago/spreago/build/",
+  "homepage": ".",
   "name": "spreago",
   "version": "0.1.0",
   "private": true,
@@ -24,13 +24,14 @@
     "react-icons": "^3.8.0",
     "react-material-ui-form-validator": "^2.0.9",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.3.0",
+    "serve": "^11.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
