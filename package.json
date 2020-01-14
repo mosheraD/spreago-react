@@ -1,5 +1,4 @@
 {
-  "homepage": ".",
   "name": "spreago",
   "version": "0.1.0",
   "private": true,
@@ -25,8 +24,11 @@
     "react-material-ui-form-validator": "^2.0.9",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.3.0",
-    "serve": "^11.3.0"
+    "serve": "^11.3.0",
+    "yarn": "^1.21.1",
+    "yarn-install": "^1.0.0"
   },
+  "homepage": "https://mosherad.github.io/spreago-react/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
