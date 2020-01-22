@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4995bd26aca13af208454b0e028df2f2",
+    "revision": "e57ac4ebe72703572d30eb84c0d38e05",
     "url": "/spreago-react/index.html"
   },
   {
