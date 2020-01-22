@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d47f13770702df948f47fc64904ee16",
+    "revision": "6d8d3d9a5f5f7b9da25f3cecb24901d1",
     "url": "/spreago-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spreago-react/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "28da2f12dc6405259d61",
+    "revision": "96b679f50dd839069c4c",
     "url": "/spreago-react/static/css/main.565c80c0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spreago-react/static/js/2.98dec6dc.chunk.js.LICENSE"
   },
   {
-    "revision": "28da2f12dc6405259d61",
-    "url": "/spreago-react/static/js/main.6d92e2cf.chunk.js"
+    "revision": "96b679f50dd839069c4c",
+    "url": "/spreago-react/static/js/main.828443b3.chunk.js"
   },
   {
     "revision": "943fcdd0a905ec6f7d4c",
