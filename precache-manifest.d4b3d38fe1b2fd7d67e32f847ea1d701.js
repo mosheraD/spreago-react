@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b51f087f1ed7f6300947c2e20736d08",
+    "revision": "7738683bbdaa2e8bc9818f3d39bf1040",
     "url": "/spreago-react/index.html"
   },
   {
-    "revision": "6f2d4cbff6476e32119d",
+    "revision": "07fefdbafe0a2ced8155",
     "url": "/spreago-react/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "3fa4ff88655a2eadaa62",
-    "url": "/spreago-react/static/css/main.5871101e.chunk.css"
+    "revision": "85a8a7928ab78fa34933",
+    "url": "/spreago-react/static/css/main.8bb63281.chunk.css"
   },
   {
-    "revision": "6f2d4cbff6476e32119d",
-    "url": "/spreago-react/static/js/2.98dec6dc.chunk.js"
+    "revision": "07fefdbafe0a2ced8155",
+    "url": "/spreago-react/static/js/2.d0d6f03c.chunk.js"
   },
   {
     "revision": "7ebf6900007f3aece6a94682e6b99f1b",
-    "url": "/spreago-react/static/js/2.98dec6dc.chunk.js.LICENSE"
+    "url": "/spreago-react/static/js/2.d0d6f03c.chunk.js.LICENSE"
   },
   {
-    "revision": "3fa4ff88655a2eadaa62",
-    "url": "/spreago-react/static/js/main.21f2e2a4.chunk.js"
+    "revision": "85a8a7928ab78fa34933",
+    "url": "/spreago-react/static/js/main.41240798.chunk.js"
   },
   {
     "revision": "943fcdd0a905ec6f7d4c",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spreago-react/static/media/1.7664416f.png"
   },
   {
-    "revision": "1d61ee3447821612f93ea70e6a27518a",
-    "url": "/spreago-react/static/media/bg.1d61ee34.png"
+    "revision": "136b078f702bf93a3ed583c51ff41af6",
+    "url": "/spreago-react/static/media/bg.136b078f.png"
   },
   {
     "revision": "72441ae6c7848ea05c9069bc6b1110d9",
