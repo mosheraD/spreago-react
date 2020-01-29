@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/spreago-react/static/css/main.df907562.chunk.css",
-    "main.js": "/spreago-react/static/js/main.32532592.chunk.js",
-    "main.js.map": "/spreago-react/static/js/main.32532592.chunk.js.map",
+    "main.js": "/spreago-react/static/js/main.f0d11b69.chunk.js",
+    "main.js.map": "/spreago-react/static/js/main.f0d11b69.chunk.js.map",
     "runtime-main.js": "/spreago-react/static/js/runtime-main.cd45ed29.js",
     "runtime-main.js.map": "/spreago-react/static/js/runtime-main.cd45ed29.js.map",
     "static/css/2.17e5ed98.chunk.css": "/spreago-react/static/css/2.17e5ed98.chunk.css",
     "static/js/2.5afd1b54.chunk.js": "/spreago-react/static/js/2.5afd1b54.chunk.js",
     "static/js/2.5afd1b54.chunk.js.map": "/spreago-react/static/js/2.5afd1b54.chunk.js.map",
     "index.html": "/spreago-react/index.html",
-    "precache-manifest.8c68d32c33792be90fec91f92560a028.js": "/spreago-react/precache-manifest.8c68d32c33792be90fec91f92560a028.js",
+    "precache-manifest.00eaee1128eb92d0a15d2ddf5141e9ed.js": "/spreago-react/precache-manifest.00eaee1128eb92d0a15d2ddf5141e9ed.js",
     "service-worker.js": "/spreago-react/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/spreago-react/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.df907562.chunk.css.map": "/spreago-react/static/css/main.df907562.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.5afd1b54.chunk.js",
     "static/css/main.df907562.chunk.css",
-    "static/js/main.32532592.chunk.js"
+    "static/js/main.f0d11b69.chunk.js"
   ]
 }
