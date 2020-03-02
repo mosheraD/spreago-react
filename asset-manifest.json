@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/spreago-react/static/css/main.df907562.chunk.css",
-    "main.js": "/spreago-react/static/js/main.a117992f.chunk.js",
-    "main.js.map": "/spreago-react/static/js/main.a117992f.chunk.js.map",
+    "main.css": "/spreago-react/static/css/main.ebd47a39.chunk.css",
+    "main.js": "/spreago-react/static/js/main.b0c55e87.chunk.js",
+    "main.js.map": "/spreago-react/static/js/main.b0c55e87.chunk.js.map",
     "runtime-main.js": "/spreago-react/static/js/runtime-main.cd45ed29.js",
     "runtime-main.js.map": "/spreago-react/static/js/runtime-main.cd45ed29.js.map",
     "static/css/2.17e5ed98.chunk.css": "/spreago-react/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.5afd1b54.chunk.js": "/spreago-react/static/js/2.5afd1b54.chunk.js",
-    "static/js/2.5afd1b54.chunk.js.map": "/spreago-react/static/js/2.5afd1b54.chunk.js.map",
+    "static/js/2.f706fa6a.chunk.js": "/spreago-react/static/js/2.f706fa6a.chunk.js",
+    "static/js/2.f706fa6a.chunk.js.map": "/spreago-react/static/js/2.f706fa6a.chunk.js.map",
     "index.html": "/spreago-react/index.html",
-    "precache-manifest.bc89feef859e38bc5b70068e2cebaac9.js": "/spreago-react/precache-manifest.bc89feef859e38bc5b70068e2cebaac9.js",
+    "precache-manifest.b70f4913019c17ba881e93ce2fef1ae3.js": "/spreago-react/precache-manifest.b70f4913019c17ba881e93ce2fef1ae3.js",
     "service-worker.js": "/spreago-react/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/spreago-react/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.df907562.chunk.css.map": "/spreago-react/static/css/main.df907562.chunk.css.map",
-    "static/js/2.5afd1b54.chunk.js.LICENSE": "/spreago-react/static/js/2.5afd1b54.chunk.js.LICENSE",
+    "static/css/main.ebd47a39.chunk.css.map": "/spreago-react/static/css/main.ebd47a39.chunk.css.map",
+    "static/js/2.f706fa6a.chunk.js.LICENSE": "/spreago-react/static/js/2.f706fa6a.chunk.js.LICENSE",
     "static/media/1.png": "/spreago-react/static/media/1.7664416f.png",
+    "static/media/Group 753.png": "/spreago-react/static/media/Group 753.0b4e76ae.png",
     "static/media/side-image.style.css": "/spreago-react/static/media/bg.136b078f.png",
     "static/media/john.png": "/spreago-react/static/media/john.72441ae6.png",
     "static/media/member.png": "/spreago-react/static/media/member.fbbfed5a.png",
+    "static/media/pic-video.png": "/spreago-react/static/media/pic-video.a6751ea5.png",
     "static/media/ux.png": "/spreago-react/static/media/ux.c57837c7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cd45ed29.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.5afd1b54.chunk.js",
-    "static/css/main.df907562.chunk.css",
-    "static/js/main.a117992f.chunk.js"
+    "static/js/2.f706fa6a.chunk.js",
+    "static/css/main.ebd47a39.chunk.css",
+    "static/js/main.b0c55e87.chunk.js"
   ]
 }
