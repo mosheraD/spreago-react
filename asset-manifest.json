@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/spreago-react/static/css/main.484602ea.chunk.css",
-    "main.js": "/spreago-react/static/js/main.738b4444.chunk.js",
-    "main.js.map": "/spreago-react/static/js/main.738b4444.chunk.js.map",
+    "main.css": "/spreago-react/static/css/main.7ad7daff.chunk.css",
+    "main.js": "/spreago-react/static/js/main.3c41c149.chunk.js",
+    "main.js.map": "/spreago-react/static/js/main.3c41c149.chunk.js.map",
     "runtime-main.js": "/spreago-react/static/js/runtime-main.fc50af29.js",
     "runtime-main.js.map": "/spreago-react/static/js/runtime-main.fc50af29.js.map",
     "static/css/2.f26a4486.chunk.css": "/spreago-react/static/css/2.f26a4486.chunk.css",
-    "static/js/2.dafdc604.chunk.js": "/spreago-react/static/js/2.dafdc604.chunk.js",
-    "static/js/2.dafdc604.chunk.js.map": "/spreago-react/static/js/2.dafdc604.chunk.js.map",
+    "static/js/2.1f8d583f.chunk.js": "/spreago-react/static/js/2.1f8d583f.chunk.js",
+    "static/js/2.1f8d583f.chunk.js.map": "/spreago-react/static/js/2.1f8d583f.chunk.js.map",
     "index.html": "/spreago-react/index.html",
-    "precache-manifest.1f87e7d0e27c8d8d1acef681bb0d2f23.js": "/spreago-react/precache-manifest.1f87e7d0e27c8d8d1acef681bb0d2f23.js",
+    "precache-manifest.52602f567efd0170c90159464a0ca296.js": "/spreago-react/precache-manifest.52602f567efd0170c90159464a0ca296.js",
     "service-worker.js": "/spreago-react/service-worker.js",
     "static/css/2.f26a4486.chunk.css.map": "/spreago-react/static/css/2.f26a4486.chunk.css.map",
-    "static/css/main.484602ea.chunk.css.map": "/spreago-react/static/css/main.484602ea.chunk.css.map",
-    "static/js/2.dafdc604.chunk.js.LICENSE.txt": "/spreago-react/static/js/2.dafdc604.chunk.js.LICENSE.txt",
+    "static/css/main.7ad7daff.chunk.css.map": "/spreago-react/static/css/main.7ad7daff.chunk.css.map",
+    "static/js/2.1f8d583f.chunk.js.LICENSE.txt": "/spreago-react/static/js/2.1f8d583f.chunk.js.LICENSE.txt",
     "static/media/1.png": "/spreago-react/static/media/1.7664416f.png",
     "static/media/side-image.style.css": "/spreago-react/static/media/bg.136b078f.png",
     "static/media/john.png": "/spreago-react/static/media/john.72441ae6.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.fc50af29.js",
     "static/css/2.f26a4486.chunk.css",
-    "static/js/2.dafdc604.chunk.js",
-    "static/css/main.484602ea.chunk.css",
-    "static/js/main.738b4444.chunk.js"
+    "static/js/2.1f8d583f.chunk.js",
+    "static/css/main.7ad7daff.chunk.css",
+    "static/js/main.3c41c149.chunk.js"
   ]
 }
