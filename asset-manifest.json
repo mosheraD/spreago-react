@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/spreago-react/static/css/main.6dca5f00.chunk.css",
-    "main.js": "/spreago-react/static/js/main.d2316a91.chunk.js",
-    "main.js.map": "/spreago-react/static/js/main.d2316a91.chunk.js.map",
+    "main.css": "/spreago-react/static/css/main.359d9fc7.chunk.css",
+    "main.js": "/spreago-react/static/js/main.08bc3b24.chunk.js",
+    "main.js.map": "/spreago-react/static/js/main.08bc3b24.chunk.js.map",
     "runtime-main.js": "/spreago-react/static/js/runtime-main.fc50af29.js",
     "runtime-main.js.map": "/spreago-react/static/js/runtime-main.fc50af29.js.map",
     "static/css/2.f26a4486.chunk.css": "/spreago-react/static/css/2.f26a4486.chunk.css",
-    "static/js/2.8ef4b42a.chunk.js": "/spreago-react/static/js/2.8ef4b42a.chunk.js",
-    "static/js/2.8ef4b42a.chunk.js.map": "/spreago-react/static/js/2.8ef4b42a.chunk.js.map",
+    "static/js/2.d1e0bcfe.chunk.js": "/spreago-react/static/js/2.d1e0bcfe.chunk.js",
+    "static/js/2.d1e0bcfe.chunk.js.map": "/spreago-react/static/js/2.d1e0bcfe.chunk.js.map",
     "index.html": "/spreago-react/index.html",
-    "precache-manifest.62c77805e4233bbfc5034d7853f7fe7f.js": "/spreago-react/precache-manifest.62c77805e4233bbfc5034d7853f7fe7f.js",
+    "precache-manifest.f893be0a3033387465fa422c7ffa9435.js": "/spreago-react/precache-manifest.f893be0a3033387465fa422c7ffa9435.js",
     "service-worker.js": "/spreago-react/service-worker.js",
     "static/css/2.f26a4486.chunk.css.map": "/spreago-react/static/css/2.f26a4486.chunk.css.map",
-    "static/css/main.6dca5f00.chunk.css.map": "/spreago-react/static/css/main.6dca5f00.chunk.css.map",
-    "static/js/2.8ef4b42a.chunk.js.LICENSE.txt": "/spreago-react/static/js/2.8ef4b42a.chunk.js.LICENSE.txt",
+    "static/css/main.359d9fc7.chunk.css.map": "/spreago-react/static/css/main.359d9fc7.chunk.css.map",
+    "static/js/2.d1e0bcfe.chunk.js.LICENSE.txt": "/spreago-react/static/js/2.d1e0bcfe.chunk.js.LICENSE.txt",
+    "static/js/main.08bc3b24.chunk.js.LICENSE.txt": "/spreago-react/static/js/main.08bc3b24.chunk.js.LICENSE.txt",
     "static/media/1.png": "/spreago-react/static/media/1.7664416f.png",
     "static/media/side-image.style.css": "/spreago-react/static/media/bg.136b078f.png",
     "static/media/john.png": "/spreago-react/static/media/john.72441ae6.png",
     "static/media/member.png": "/spreago-react/static/media/member.fbbfed5a.png",
-    "static/media/ux.png": "/spreago-react/static/media/ux.c57837c7.png"
+    "static/media/ux.png": "/spreago-react/static/media/ux.c57837c7.png",
+    "static/media/video.mp4": "/spreago-react/static/media/video.a7363ff2.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.fc50af29.js",
     "static/css/2.f26a4486.chunk.css",
-    "static/js/2.8ef4b42a.chunk.js",
-    "static/css/main.6dca5f00.chunk.css",
-    "static/js/main.d2316a91.chunk.js"
+    "static/js/2.d1e0bcfe.chunk.js",
+    "static/css/main.359d9fc7.chunk.css",
+    "static/js/main.08bc3b24.chunk.js"
   ]
 }
