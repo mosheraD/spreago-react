@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/spreago-react/static/css/main.96f58c90.chunk.css",
-    "main.js": "/spreago-react/static/js/main.2ed29475.chunk.js",
-    "main.js.map": "/spreago-react/static/js/main.2ed29475.chunk.js.map",
+    "main.css": "/spreago-react/static/css/main.de900c0a.chunk.css",
+    "main.js": "/spreago-react/static/js/main.fce5e764.chunk.js",
+    "main.js.map": "/spreago-react/static/js/main.fce5e764.chunk.js.map",
     "runtime-main.js": "/spreago-react/static/js/runtime-main.fc50af29.js",
     "runtime-main.js.map": "/spreago-react/static/js/runtime-main.fc50af29.js.map",
     "static/css/2.f26a4486.chunk.css": "/spreago-react/static/css/2.f26a4486.chunk.css",
-    "static/js/2.b641e776.chunk.js": "/spreago-react/static/js/2.b641e776.chunk.js",
-    "static/js/2.b641e776.chunk.js.map": "/spreago-react/static/js/2.b641e776.chunk.js.map",
+    "static/js/2.fadd36dd.chunk.js": "/spreago-react/static/js/2.fadd36dd.chunk.js",
+    "static/js/2.fadd36dd.chunk.js.map": "/spreago-react/static/js/2.fadd36dd.chunk.js.map",
     "index.html": "/spreago-react/index.html",
-    "precache-manifest.3fdcd3dfb2268a97e5972eb36b451355.js": "/spreago-react/precache-manifest.3fdcd3dfb2268a97e5972eb36b451355.js",
+    "precache-manifest.9648175ecf85fafbda5715fee0fff888.js": "/spreago-react/precache-manifest.9648175ecf85fafbda5715fee0fff888.js",
     "service-worker.js": "/spreago-react/service-worker.js",
     "static/css/2.f26a4486.chunk.css.map": "/spreago-react/static/css/2.f26a4486.chunk.css.map",
-    "static/css/main.96f58c90.chunk.css.map": "/spreago-react/static/css/main.96f58c90.chunk.css.map",
-    "static/js/2.b641e776.chunk.js.LICENSE.txt": "/spreago-react/static/js/2.b641e776.chunk.js.LICENSE.txt",
-    "static/js/main.2ed29475.chunk.js.LICENSE.txt": "/spreago-react/static/js/main.2ed29475.chunk.js.LICENSE.txt",
+    "static/css/main.de900c0a.chunk.css.map": "/spreago-react/static/css/main.de900c0a.chunk.css.map",
+    "static/js/2.fadd36dd.chunk.js.LICENSE.txt": "/spreago-react/static/js/2.fadd36dd.chunk.js.LICENSE.txt",
+    "static/js/main.fce5e764.chunk.js.LICENSE.txt": "/spreago-react/static/js/main.fce5e764.chunk.js.LICENSE.txt",
     "static/media/1.png": "/spreago-react/static/media/1.7664416f.png",
     "static/media/side-image.style.css": "/spreago-react/static/media/bg.136b078f.png",
     "static/media/john.png": "/spreago-react/static/media/john.72441ae6.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.fc50af29.js",
     "static/css/2.f26a4486.chunk.css",
-    "static/js/2.b641e776.chunk.js",
-    "static/css/main.96f58c90.chunk.css",
-    "static/js/main.2ed29475.chunk.js"
+    "static/js/2.fadd36dd.chunk.js",
+    "static/css/main.de900c0a.chunk.css",
+    "static/js/main.fce5e764.chunk.js"
   ]
 }
