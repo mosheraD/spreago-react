@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/spreago-react/precache-manifest.c5e517dffe7aa20cdd80c6652139166d.js"
+  "/spreago-react/precache-manifest.38a63a6d9aa7f95ad0ea19e3797bd951.js"
 );
 
 self.addEventListener('message', (event) => {
