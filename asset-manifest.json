@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/spreago-react/static/css/main.86e5d0c5.chunk.css",
-    "main.js": "/spreago-react/static/js/main.c1039144.chunk.js",
-    "main.js.map": "/spreago-react/static/js/main.c1039144.chunk.js.map",
+    "main.js": "/spreago-react/static/js/main.2836ed57.chunk.js",
+    "main.js.map": "/spreago-react/static/js/main.2836ed57.chunk.js.map",
     "runtime-main.js": "/spreago-react/static/js/runtime-main.fc50af29.js",
     "runtime-main.js.map": "/spreago-react/static/js/runtime-main.fc50af29.js.map",
     "static/css/2.54ea80bc.chunk.css": "/spreago-react/static/css/2.54ea80bc.chunk.css",
-    "static/js/2.bd58263d.chunk.js": "/spreago-react/static/js/2.bd58263d.chunk.js",
-    "static/js/2.bd58263d.chunk.js.map": "/spreago-react/static/js/2.bd58263d.chunk.js.map",
+    "static/js/2.1d51b650.chunk.js": "/spreago-react/static/js/2.1d51b650.chunk.js",
+    "static/js/2.1d51b650.chunk.js.map": "/spreago-react/static/js/2.1d51b650.chunk.js.map",
     "index.html": "/spreago-react/index.html",
-    "precache-manifest.e42fa2906b855d8ad2159e9e565d2c97.js": "/spreago-react/precache-manifest.e42fa2906b855d8ad2159e9e565d2c97.js",
+    "precache-manifest.302ab5f08a231b94a8a746b183a0b2ea.js": "/spreago-react/precache-manifest.302ab5f08a231b94a8a746b183a0b2ea.js",
     "service-worker.js": "/spreago-react/service-worker.js",
     "static/css/2.54ea80bc.chunk.css.map": "/spreago-react/static/css/2.54ea80bc.chunk.css.map",
     "static/css/main.86e5d0c5.chunk.css.map": "/spreago-react/static/css/main.86e5d0c5.chunk.css.map",
-    "static/js/2.bd58263d.chunk.js.LICENSE.txt": "/spreago-react/static/js/2.bd58263d.chunk.js.LICENSE.txt",
-    "static/js/main.c1039144.chunk.js.LICENSE.txt": "/spreago-react/static/js/main.c1039144.chunk.js.LICENSE.txt",
+    "static/js/2.1d51b650.chunk.js.LICENSE.txt": "/spreago-react/static/js/2.1d51b650.chunk.js.LICENSE.txt",
+    "static/js/main.2836ed57.chunk.js.LICENSE.txt": "/spreago-react/static/js/main.2836ed57.chunk.js.LICENSE.txt",
     "static/media/1.png": "/spreago-react/static/media/1.7664416f.png",
     "static/media/activity.svg": "/spreago-react/static/media/activity.9d3f31af.svg",
     "static/media/side-image.style.css": "/spreago-react/static/media/bg.136b078f.png",
@@ -23,6 +23,7 @@
     "static/media/illustration.png": "/spreago-react/static/media/illustration.1d714182.png",
     "static/media/john.png": "/spreago-react/static/media/john.72441ae6.png",
     "static/media/member.png": "/spreago-react/static/media/member.fbbfed5a.png",
+    "static/media/more.svg": "/spreago-react/static/media/more.0631d46b.svg",
     "static/media/no-posts.svg": "/spreago-react/static/media/no-posts.56d4d189.svg",
     "static/media/noDataSearch.svg": "/spreago-react/static/media/noDataSearch.7bf41a34.svg",
     "static/media/personal.svg": "/spreago-react/static/media/personal.150b2cab.svg",
@@ -34,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.fc50af29.js",
     "static/css/2.54ea80bc.chunk.css",
-    "static/js/2.bd58263d.chunk.js",
+    "static/js/2.1d51b650.chunk.js",
     "static/css/main.86e5d0c5.chunk.css",
-    "static/js/main.c1039144.chunk.js"
+    "static/js/main.2836ed57.chunk.js"
   ]
 }
